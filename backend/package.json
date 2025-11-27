@@ -1,0 +1,14 @@
+{
+  "name": "movies",
+  "version": "0.1",
+  "description": "A sample project to learn Node.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Vanessa Llorente Pinzón",
+  "license": "GPL-2.0-only",
+ 
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
